@@ -1,5 +1,4 @@
 # ComputerTracker
-
-        ComputerTracker/ComputerTrackerDia.jpg
+ComputerTracker/ComputerTrackerDia.jpg
       
       
