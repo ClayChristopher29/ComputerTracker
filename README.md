@@ -1,5 +1,5 @@
 # ComputerTracker
 
-![alt text](ComputerTracker/ComputerTrackerDia.jpg)
-      
+![ComputerTrackerDia](ComputerTrackerDia.jpg)
+
       
