@@ -1,4 +1,5 @@
 # ComputerTracker
-ComputerTracker/ComputerTrackerDia.jpg
+
+![alt text](ComputerTracker/ComputerTrackerDia.jpg)
       
       
